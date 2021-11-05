@@ -7,4 +7,4 @@ This project contains a list of Jupyter Notebooks where I try to implement sever
 
 - Deep Neural Network: I illustrate how to create and training a neural network from scratch (using only numpy) to classify labels in a 2D spiral dataset
 - Recurrent Neural Network (RNN): I demonstrate how to implement a traditional RNN to perform the task of sentiment analysis
-- [To be added]
+- Gated Recurrent Unit (RNN): I implement and use GRU layer to perform the same task of sentiment analysis
