@@ -1,4 +1,4 @@
-# Neural Network architecture from scratch
+# Neural Network architectures from scratch
 
 ## About
 This project contains a list of Jupyter Notebooks where I try to implement several common Neural Network architecture from scratch (using only numpy)
